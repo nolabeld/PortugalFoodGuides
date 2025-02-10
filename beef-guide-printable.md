@@ -4,13 +4,39 @@
 
 ## Premium Cuts Quick Guide
 
-| Cut           | English            | Best For              | Ideal Temp | Cooking Time (2.5cm) |
-| ------------- | ------------------ | --------------------- | ---------- | -------------------- |
-| Picanha       | Top Sirloin Cap    | Grilling, churrasco   | 55-57°C    | 4-5 min/side         |
-| Maminha       | Bottom Sirloin Tip | Grilling, roasting    | 55-57°C    | 4-5 min/side         |
-| Entrecôte     | Ribeye             | Grilling, pan-searing | 55-57°C    | 3-4 min/side         |
-| Lombo         | Tenderloin         | Roasting, steaks      | 52-57°C    | 3-4 min/side         |
-| Bife da Vazia | Sirloin Steak      | Grilling, pan-frying  | 55-57°C    | 3-4 min/side         |
+| Cut             | English            | Best For              | Ideal Temp | Time (2.5cm) |
+| --------------- | ------------------ | --------------------- | ---------- | ------------ |
+| Picanha         | Top Sirloin Cap    | Grilling, churrasco   | 55-57°C    | 4-5 min/side |
+| Maminha         | Bottom Sirloin Tip | Grilling, roasting    | 55-57°C    | 4-5 min/side |
+| Entrecôte       | Ribeye             | Grilling, pan-searing | 55-57°C    | 3-4 min/side |
+| Lombo           | Tenderloin         | Roasting, steaks      | 52-57°C    | 3-4 min/side |
+| Bife da Vazia   | Sirloin Steak      | Grilling, pan-frying  | 55-57°C    | 3-4 min/side |
+| Alcatra         | Top Sirloin        | Roasting, steaks      | 55-57°C    | 4-5 min/side |
+| Bife do Coração | Center Cut Sirloin | Grilling, pan-searing | 55-57°C    | 3-4 min/side |
+| Fraldinha       | Flank Steak        | Grilling, braising    | 57-60°C    | 4-5 min/side |
+
+## Secondary Cuts Guide
+
+| Cut              | English        | Best For          | Time   | Temp    |
+| ---------------- | -------------- | ----------------- | ------ | ------- |
+| Pá de Novilho    | Chuck/Shoulder | Slow cooking      | 2.5-3h | 88-96°C |
+| Peito de Novilho | Brisket        | Smoking, braising | 8-12h  | 88-96°C |
+| Acém Comprido    | Chuck Roll     | Braising, stewing | 2.5-3h | 88-96°C |
+| Chambão          | Shank          | Soups, stewing    | 2.5-3h | 88-96°C |
+| Pojadouro        | Rump           | Roasting          | 2-2.5h | 88-96°C |
+| Cachaço          | Neck           | Slow cooking      | 3-4h   | 88-96°C |
+| Chã de Fora      | Outside Flat   | Roasting, stewing | 2-3h   | 88-96°C |
+
+## Special Cuts & Preparations
+
+| Cut           | Best Preparation | Notes           |
+| ------------- | ---------------- | --------------- |
+| Escalopes     | Quick pan-fry    | Thin sliced     |
+| Bife do Lombo | High-heat sear   | Premium steak   |
+| Pica Pau      | Quick cubes      | Bar food        |
+| Jardineira    | Stew             | With vegetables |
+| Medalhões     | Pan-sear         | Medallions      |
+| Preguinho     | Sandwich steak   | Quick cooking   |
 
 ## Braising Cuts Quick Guide
 
@@ -99,7 +125,7 @@ Page 2
 - Small roasts: 25-30 min
 - Medium roasts: 35-45 min
 
-## Cut-Specific Tips
+## Cut-Specific Tips (Updated)
 
 ### Premium Cuts
 
@@ -107,12 +133,20 @@ Page 2
 - Entrecôte: Room temp essential
 - Lombo: Don't overcook
 - Maminha: Rest well before slicing
+- Alcatra: Great for large roasts
+- Fraldinha: Slice against grain
+- Bife do Coração: Quick sear only
+- Bife da Vazia: Versatile cut
 
-### Braising Cuts
+### Secondary Cuts
 
 - Acém: Brown first
 - Chambão: Low and slow
 - Pojadouro: Keep liquid at simmer
+- Pá: Great for stews
+- Peito: Perfect for smoking
+- Cachaço: Rich flavor
+- Chã de Fora: Good value
 
 ## Quick Seasoning Guide
 
